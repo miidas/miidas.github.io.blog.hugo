@@ -1,8 +1,10 @@
 #!/bin/bash
 # Install hugo
-wget https://github.com/gohugoio/hugo/releases/download/v0.73.0/hugo_extended_0.73.0_Linux-64bit.deb
+wget -q https://github.com/gohugoio/hugo/releases/download/v0.73.0/hugo_extended_0.73.0_Linux-64bit.deb
 sudo apt install ./hugo_extended_0.73.0_Linux-64bit.deb
+rm -f hugo_extended_0.73.0_Linux-64bit.deb
 
+# 
 # Print hugo version 
 hugo version
 
