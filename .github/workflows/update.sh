@@ -9,6 +9,9 @@ hugo version
 # Generate static files
 hugo
 
+# Debug
+ls -la
+
 # Show generated files
 ls -la public/
 
