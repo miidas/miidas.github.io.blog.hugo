@@ -3,3 +3,12 @@ languageCode = "ja"
 title = "miidas blog"
 theme = "m10c"
 hasCJKLanguage = true
+
+[params]
+  description = ""
+  [[params.social]]
+    name = "GitHub"
+    url = "https://github.com/miidas0"
+  [[params.social]]
+    name = "Twitter"
+    url = "https://twitter.com/m_iidas"
