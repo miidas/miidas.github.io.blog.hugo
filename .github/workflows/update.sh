@@ -1,6 +1,6 @@
 #!/bin/bash
 # Install hugo
-apt-get install hugo
+sudo apt-get install hugo
 
 # Print hugo version 
 hugo version
