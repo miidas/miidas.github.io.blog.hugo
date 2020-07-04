@@ -1,4 +1,4 @@
-baseURL = "https://miidas0.github.io/blog/"
+baseURL = "https://miidas.github.io/blog/"
 languageCode = "ja"
 title = "miidas blog"
 theme = "m10c"
