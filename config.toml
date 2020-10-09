@@ -6,3 +6,11 @@ hasCJKLanguage = true
 
 [params]
   description = "なんか書く。"
+  enableSharingButtons = true
+  defaultTheme = "dark"
+
+[languages]
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/posts"
