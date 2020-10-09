@@ -1,7 +1,7 @@
 baseURL = "https://miidas.github.io/blog/"
 languageCode = "ja"
 title = "miidas blog"
-theme = "m10c"
+theme = "hello-friend-ng"
 hasCJKLanguage = true
 
 [params]
